@@ -6,3 +6,5 @@ git clone <URL репозитория>
 git add <имя_файла>
 git commit -m "<сообщение коммита>"
 git push origin <ветка>
+#Команда для Pull
+git pull origin <main>
